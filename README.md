@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazninja&count_private=true&show_icons=true&theme=github_dark&line_height=27" />
 </a>
 <a href="https://github.com/yazninja/yazninja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazninja&langs_count=10&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazninja&langs_count=10&layout=compact&theme=github_dark&line_height=27" />
 </a>
