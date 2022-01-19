@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![YazNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazninja&count_private=true&show_icons=true&theme=github_dark)
-](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazninja&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/yazninja/yazninja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazninja&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/yazninja/yazninja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazninja&langs_count=10&layout=compact&theme=github_dark" />
+</a>
